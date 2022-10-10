@@ -4,3 +4,4 @@ Rencana Hidup
 -bikin game
 -Chicken Dinner
 -Python
+-JavaScript
