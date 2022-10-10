@@ -1,5 +1,6 @@
 Hallo ini untuk mencoba membuat README
 
-HALLO HALLO
+GITHUB
+
 -Muhammad Rafi Sutrisno
 -5025211167
