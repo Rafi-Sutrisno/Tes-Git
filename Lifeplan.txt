@@ -3,3 +3,5 @@ Rencana Hidup
 -jadi orang sukses
 -bikin game
 -Chicken Dinner
+-Python
+-JavaScript
