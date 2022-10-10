@@ -3,5 +3,7 @@ Rencana Hidup
 -jadi orang sukses
 -bikin game
 -Belajar Unity
+-Chicken Dinner
 -Python
--Java
+-JavaScript
+
